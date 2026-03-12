@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-11T01:57:53Z",
+            "last_commit": "2026-03-12T03:36:32Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 138290
+            "stars": 138303
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-03-11T01:57:53Z",
+            "last_commit": "2026-03-12T03:36:32Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 138290
+            "stars": 138303
           }
         },
         {
@@ -452,7 +452,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T14:47:14Z",
+            "last_commit": "2026-03-11T17:44:52Z",
             "owner": "hasura",
             "repo": "graphql-engine",
             "stars": 31915
@@ -603,7 +603,7 @@
             "last_commit": "2025-08-28T11:20:28Z",
             "owner": "pankod",
             "repo": "superplate",
-            "stars": 2893
+            "stars": 2894
           }
         },
         {
@@ -647,7 +647,7 @@
             "last_commit": "2026-03-05T17:44:06Z",
             "owner": "Blazity",
             "repo": "next-enterprise",
-            "stars": 7352
+            "stars": 7354
           }
         },
         {
@@ -657,7 +657,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T12:13:19Z",
+            "last_commit": "2026-03-11T14:28:40Z",
             "owner": "BearStudio",
             "repo": "start-ui-web",
             "stars": 1689
@@ -674,6 +674,19 @@
             "owner": "DevxiaLabs",
             "repo": "kaiforge-lite",
             "stars": 0
+          }
+        },
+        {
+          "children": [],
+          "description": "Accessibility-first Next.js starter kit with best practices for building inclusive web apps. Demo:",
+          "title": "A11y Starter Kit",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-09T16:10:31Z",
+            "owner": "thefrontkit",
+            "repo": "a11y-starter-kit-code",
+            "stars": 2
           }
         }
       ],
@@ -910,7 +923,7 @@
             "last_commit": "2024-07-27T00:29:09Z",
             "owner": "shadowwalker",
             "repo": "next-pwa",
-            "stars": 4089
+            "stars": 4088
           }
         },
         {
@@ -962,7 +975,7 @@
             "last_commit": "2026-02-07T21:40:57Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28134
+            "stars": 28139
           }
         },
         {
@@ -1081,10 +1094,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T23:36:28Z",
+            "last_commit": "2026-03-12T03:11:06Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 22503
+            "stars": 22533
           }
         },
         {
@@ -1094,10 +1107,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T22:56:21Z",
+            "last_commit": "2026-03-12T03:33:15Z",
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 29278
+            "stars": 29295
           }
         },
         {
@@ -1147,7 +1160,20 @@
             "last_commit": "2026-03-10T01:11:14Z",
             "owner": "codelitdev",
             "repo": "courselit",
-            "stars": 1117
+            "stars": 1116
+          }
+        },
+        {
+          "children": [],
+          "description": "AI-powered Connector Hub with a Next.js + shadcn/ui portal frontend. Features agent management, connector configuration, knowledge base, and real-time chat with SSE streaming.",
+          "title": "FIM Agent",
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T17:17:24Z",
+            "owner": "fim-ai",
+            "repo": "fim-one",
+            "stars": 109
           }
         },
         {
@@ -1160,7 +1186,7 @@
             "last_commit": "2022-11-23T21:12:39Z",
             "owner": "onur-ozkan",
             "repo": "feednext",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -1519,10 +1545,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-10T18:09:45Z",
+            "last_commit": "2026-03-12T04:00:43Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 109196
+            "stars": 109345
           }
         },
         {
@@ -1558,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-11T04:03:16.636Z",
+    "last_updated": "2026-03-12T04:07:17.360Z",
     "original_repository": "unicodeveloper/awesome-nextjs",
     "source_repository": "v1nvn/enhansome-nextjs",
     "source_repository_description": null,
