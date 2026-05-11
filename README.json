@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-10T02:10:55Z",
+            "last_commit": "2026-05-11T04:55:55Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 139347
+            "stars": 139378
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-10T02:10:55Z",
+            "last_commit": "2026-05-11T04:55:55Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 139347
+            "stars": 139378
           }
         },
         {
@@ -138,7 +138,7 @@
             "last_commit": "2023-10-29T18:15:29Z",
             "owner": "UnlyEd",
             "repo": "next-right-now",
-            "stars": 1280
+            "stars": 1279
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2023-08-04T17:07:57Z",
             "owner": "pankod",
             "repo": "next-boilerplate",
-            "stars": 1613
+            "stars": 1612
           }
         },
         {
@@ -468,7 +468,7 @@
             "last_commit": "2026-05-06T16:34:24Z",
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 31970
+            "stars": 31969
           }
         },
         {
@@ -783,7 +783,7 @@
             "last_commit": "2026-02-15T13:53:54Z",
             "owner": "garmeeh",
             "repo": "next-seo",
-            "stars": 8392
+            "stars": 8395
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-04-11T15:46:16Z",
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3730
+            "stars": 3731
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2026-04-23T13:55:54Z",
             "owner": "vvo",
             "repo": "iron-session",
-            "stars": 4122
+            "stars": 4124
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-04-14T21:43:37Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28229
+            "stars": 28232
           }
         },
         {
@@ -1099,10 +1099,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-08T21:29:52Z",
+            "last_commit": "2026-05-11T05:04:35Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 24123
+            "stars": 24143
           }
         },
         {
@@ -1112,10 +1112,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T22:26:19Z",
+            "last_commit": "2026-05-11T05:51:56Z",
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 31186
+            "stars": 31231
           }
         },
         {
@@ -1143,10 +1143,10 @@
           "repo_info": {
             "archived": false,
             "language": "ReScript",
-            "last_commit": "2026-05-08T21:29:22Z",
+            "last_commit": "2026-05-10T20:09:58Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 479
+            "stars": 489
           }
         },
         {
@@ -1156,7 +1156,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T23:01:46Z",
+            "last_commit": "2026-05-10T19:30:36Z",
             "owner": "farming-labs",
             "repo": "docs",
             "stars": 45
@@ -1209,7 +1209,7 @@
             "last_commit": "2026-05-09T10:36:36Z",
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 817
+            "stars": 834
           }
         },
         {
@@ -1524,7 +1524,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-10T05:02:53Z",
+            "last_commit": "2026-05-11T00:23:34Z",
             "owner": "kachkaev",
             "repo": "njt",
             "stars": 317
@@ -1576,7 +1576,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19221
+            "stars": 19223
           }
         },
         {
@@ -1586,10 +1586,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-09T12:51:28Z",
+            "last_commit": "2026-05-10T16:36:26Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 113936
+            "stars": 114005
           }
         },
         {
@@ -1625,7 +1625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:31:41.326Z",
+    "last_updated": "2026-05-11T05:52:36.918Z",
     "original_repository": "unicodeveloper/awesome-nextjs",
     "source_repository": "v1nvn/enhansome-nextjs",
     "source_repository_description": null,
