@@ -10,10 +10,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T00:36:07Z",
+            "last_commit": "2026-05-16T02:06:49Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 139474
+            "stars": 139490
           }
         },
         {
@@ -23,10 +23,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-15T00:36:07Z",
+            "last_commit": "2026-05-16T02:06:49Z",
             "owner": "vercel",
             "repo": "next.js",
-            "stars": 139474
+            "stars": 139490
           }
         },
         {
@@ -403,7 +403,7 @@
             "last_commit": "2026-03-28T15:14:10Z",
             "owner": "saltyshiomix",
             "repo": "nextron",
-            "stars": 4413
+            "stars": 4414
           }
         },
         {
@@ -670,10 +670,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-07T09:23:22Z",
+            "last_commit": "2026-05-15T17:46:03Z",
             "owner": "BearStudio",
             "repo": "start-ui-web",
-            "stars": 1729
+            "stars": 1731
           }
         },
         {
@@ -796,7 +796,7 @@
             "last_commit": "2026-05-13T14:13:39Z",
             "owner": "iamvishnusankar",
             "repo": "next-sitemap",
-            "stars": 3730
+            "stars": 3731
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2026-04-23T13:55:54Z",
             "owner": "vvo",
             "repo": "iron-session",
-            "stars": 4124
+            "stars": 4123
           }
         },
         {
@@ -936,7 +936,7 @@
             "last_commit": "2024-07-27T00:29:09Z",
             "owner": "shadowwalker",
             "repo": "next-pwa",
-            "stars": 4087
+            "stars": 4086
           }
         },
         {
@@ -988,7 +988,7 @@
             "last_commit": "2026-04-14T21:43:37Z",
             "owner": "nextauthjs",
             "repo": "next-auth",
-            "stars": 28241
+            "stars": 28244
           }
         },
         {
@@ -1099,10 +1099,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T22:41:46Z",
+            "last_commit": "2026-05-15T23:22:50Z",
             "owner": "vercel",
             "repo": "ai",
-            "stars": 24231
+            "stars": 24254
           }
         },
         {
@@ -1112,10 +1112,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T01:41:58Z",
+            "last_commit": "2026-05-15T23:45:13Z",
             "owner": "CopilotKit",
             "repo": "CopilotKit",
-            "stars": 31415
+            "stars": 31444
           }
         },
         {
@@ -1143,10 +1143,10 @@
           "repo_info": {
             "archived": false,
             "language": "ReScript",
-            "last_commit": "2026-05-14T22:46:42Z",
+            "last_commit": "2026-05-15T20:16:14Z",
             "owner": "frontman-ai",
             "repo": "frontman",
-            "stars": 510
+            "stars": 516
           }
         },
         {
@@ -1156,7 +1156,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-15T00:54:23Z",
+            "last_commit": "2026-05-15T15:20:35Z",
             "owner": "farming-labs",
             "repo": "docs",
             "stars": 47
@@ -1193,10 +1193,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T16:40:22Z",
+            "last_commit": "2026-05-15T18:40:34Z",
             "owner": "codelitdev",
             "repo": "courselit",
-            "stars": 1158
+            "stars": 1160
           }
         },
         {
@@ -1209,7 +1209,7 @@
             "last_commit": "2026-05-09T10:36:36Z",
             "owner": "fim-ai",
             "repo": "fim-one",
-            "stars": 946
+            "stars": 966
           }
         },
         {
@@ -1227,7 +1227,7 @@
             "last_commit": "2022-11-23T21:12:39Z",
             "owner": "onur-ozkan",
             "repo": "feednext",
-            "stars": 321
+            "stars": 322
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2020-03-31T05:15:17Z",
             "owner": "dotcypress",
             "repo": "password",
-            "stars": 119
+            "stars": 118
           }
         },
         {
@@ -1383,7 +1383,7 @@
             "last_commit": "2023-05-03T04:58:01Z",
             "owner": "danielbayerlein",
             "repo": "dashboard",
-            "stars": 1335
+            "stars": 1336
           }
         },
         {
@@ -1524,7 +1524,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-14T13:43:27Z",
+            "last_commit": "2026-05-16T00:48:41Z",
             "owner": "kachkaev",
             "repo": "njt",
             "stars": 316
@@ -1576,7 +1576,7 @@
             "last_commit": "2026-04-20T12:01:38Z",
             "owner": "shadcn-ui",
             "repo": "taxonomy",
-            "stars": 19224
+            "stars": 19227
           }
         },
         {
@@ -1589,7 +1589,7 @@
             "last_commit": "2026-05-14T11:46:18Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 114377
+            "stars": 114450
           }
         },
         {
@@ -1625,7 +1625,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-15T05:48:38.756Z",
+    "last_updated": "2026-05-16T05:21:20.168Z",
     "original_repository": "unicodeveloper/awesome-nextjs",
     "source_repository": "v1nvn/enhansome-nextjs",
     "source_repository_description": null,
